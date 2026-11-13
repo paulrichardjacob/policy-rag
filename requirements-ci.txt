@@ -1,0 +1,6 @@
+# Light install for tests: no torch, no model download.
+numpy>=1.26
+scikit-learn>=1.4
+requests>=2.31
+pypdf>=4.0
+pytest>=8.0
